@@ -1,1 +1,5 @@
-# Dictionary_app
+![Screenshot_20241005-025322](https://github.com/user-attachments/assets/a404baa4-ab7d-42be-bd19-60c3aaa0c853)
+![Screenshot_20241005-025316](https://github.com/user-attachments/assets/a5e33af3-f202-4391-8a48-80b10522ea05)
+![Screenshot_20241005-025306](https://github.com/user-attachments/assets/487f8aff-a934-4d8c-ae49-e3d17bf2cf2b)
+![Screenshot_20241005-025204](https://github.com/user-attachments/assets/955e4ae4-ee7f-4412-b642-e44f7d473c81)
+![Screenshot_20241005-025031](https://github.com/user-attachments/assets/978afde1-9730-4b79-8c24-08ec0c57bdf4)
