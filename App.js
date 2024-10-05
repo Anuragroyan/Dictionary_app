@@ -106,7 +106,7 @@ const App = () => {
       {error && <Text style={styles.errorText}>{error}</Text>}
       {checkedWord && !error && (
         <ScrollView
-          vertical={true}
+          horizontal={true}
           style={styles.ScrollView}
           contentContainerStyle={styles.resultsContainer}
         >
@@ -137,8 +137,8 @@ export default App;
 const styles1 = StyleSheet.create({
   resultTextContainer: {
     alignItems: "flex-start",
-    width: "100%",
-    height: "100%",
+    width: windowWidth,
+    height: "auto",
     paddingTop: 20,
   },
 });
