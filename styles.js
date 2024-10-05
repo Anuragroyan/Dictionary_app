@@ -1,5 +1,3 @@
-import { FontAwesome } from "@expo/vector-icons";
-
 const styles = {
   container: {
     flex: 1,
@@ -9,9 +7,10 @@ const styles = {
     padding: 20,
   },
   errorText: {
-    color: "red",
+    color: "teal",
     fontSize: 23,
     marginTop: 10,
+    fontFamily: "monospace",
   },
   heading: {
     fontSize: 30,
